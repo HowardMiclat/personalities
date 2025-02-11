@@ -29,6 +29,7 @@ export default function Gallery() {
   let Celebrity = CelebrityList[index];
   return (
     <>
+    <h1>Jerome Howard S. Miclat</h1>
     <button onClick={handleBackClick}>
         Back
       </button>
